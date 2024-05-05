@@ -1,3 +1,4 @@
 *.parquet
 *.tsv
+*.pt
 data/*.json
